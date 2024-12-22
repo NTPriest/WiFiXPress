@@ -16,11 +16,11 @@ And let's not shit ourselves—whether you're an operator under pressure or just
 ## *Installation*
 **Tools you need:** ```aircrack-ng (airodump-ng, aireplay-ng)```, ```hashcat```, ```tcpdump```.
 **Just download WiFiXpress and:**<br>
-set chmod permission to execute file
+set chmod permission to execute file: 
 ```
   chmod +x WifiXpress.sh
 ```
-## Usage: 
+### Usage: 
 ```
   sudo ./WifiXpress.sh
 ```
