@@ -14,7 +14,7 @@ And let's not shit ourselves—whether you're an operator under pressure or just
 -it’s a way of life for those who value speed, automation, and the occasional touch of recklessness.
 
 ## *Installation*
-**Tools you need:** aircrack-ng(airodump-ng, aireplay-ng) hashcat, tcpdump.
+**Tools you need:** ```aircrack-ng (airodump-ng, aireplay-ng)```, ```hashcat```, ```tcpdump```.
 **Just download WiFiXpress and:**
 set chmod permission to execute file
 ```
