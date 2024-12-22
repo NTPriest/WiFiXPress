@@ -6,7 +6,7 @@ Why waste precious time typing out endless commands, juggling multiple terminals
 ### With WiFiXpress, you can:
   -> **Run Hashcat Effortlessly**: Automate capturing and output preparation to send directly to your cracking tool of choice.  
   -> **Set Custom Capture Times**: Whether you're staying passive or diving in aggressively, the timer feature gives you precision control over your capture sessions.  
-  -> **Switch Between Active and Passive Modes**: Go loud or stay sneaky-beaky—WiFiXpress responds to your operational needs.  
+  -> **Active/Passive Modes**: Go loud or stay sneakybeaky~ —WiFiXpress responds to your operational needs.  
   -> **Save and Review History**: Every move you make is logged, so you can easily retrace your steps or refine your process.  
   -> **Generate Organized Outputs**: Never again sift through chaos; WiFiXpress provides clean and accessible data when you need it most.  
 
