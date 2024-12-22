@@ -55,7 +55,7 @@ sudo dnf install aircrack-ng
   Error: The network interface <INTERFACE> does not exist!
 ```
 Fix: Provide a **valid network interface** name.<br>
--> Still broken? Manually identify the interface name and comment out lines 55-65 in the script with:<br> ```:<< END <Code lines 55-65> END```:
+-> Still broken? Manually identify the interface name. If error still occuring even with valid Network_interface then comment out lines 55-65 in the script with:<br> ```:<< END <Code lines 55-65> END```:
 
 ### QaR Philosophy
 *Quick and Response (QaR) – Scripts and automation that make shit happen without the annoying manual grind. I build tools that take care of the boring stuff so you can stop wasting time and just get things done. No more babysitting your computer —just provide inputs and lets roll.*<br>
