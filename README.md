@@ -62,4 +62,4 @@ Daaamn son, you'll see what real automation is all about! (O^O)<br>
 **"Quick hands save lives!"**
 
 ## Disclaimer: 
-**This tool is provided for educational and ethical purposes only. The developer is not responsible for any misuse, illegal activity, or damages caused by the use of this software. Use it at your own risk. After all Happy Hunting Kek**
+**This tool is provided for educational and ethical purposes only. The developer is not responsible for any misuse, illegal activity, or damages caused by the use of this software. Use it at your own risk. <br> Anyway. Happy hunting!
