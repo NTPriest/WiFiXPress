@@ -10,7 +10,7 @@
   -> **Generate Organized Outputs**: Never again sift through chaos; WiFiXpress provides clean and accessible data when you need it most.  
 
 This tool isn’t just a utility; it’s your exit strategy when your time is important.**WiFiXpress** makes sure you can grab what you need and get out, fast and unnoticed.
-And let's not shit ourselves—whether you're an operator under pressure or just someone too lazy to type airmon-ng for the hundredth time, **WiFiXpress** has your back. It’s not just a tool 
+And let's not shit ourselves—whether you're an operator under pressure or just someone too lazy to type airmon-ng for the hundredth time,<br> **WiFiXpress** has your back. It’s not just a tool 
 -it’s a way of life for those who value speed, automation, and the occasional touch of recklessness.
 
 ## *Installation*
