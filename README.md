@@ -24,7 +24,7 @@ set chmod permission to execute file:
 ```
   sudo ./WifiXpress.sh
 ```
-### Provide your parameters: 
+### Enter parameters: 
 ```
   Enter network interface: <Your Network Interface>
   BSSID: <Router BSSID>
