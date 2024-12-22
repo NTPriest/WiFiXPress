@@ -1,6 +1,5 @@
 ## **WiFiXpress: Tactical Wireless Automation**
 
-### **WiFiXpress** 
 Is automation automatic-utility built around the principle of **QaR** (*Quick and Respond*). Why waste precious time typing out endless commands, juggling multiple terminals, or sweating over syntax errors, when WiFiXpress can handle the grunt work for you.
 
 ### With WiFiXpress, you can:
