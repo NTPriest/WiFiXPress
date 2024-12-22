@@ -10,8 +10,7 @@ Why waste precious time typing out endless commands, juggling multiple terminals
   -> **Save and Review History**: Every move you make is logged, so you can easily retrace your steps or refine your process.  
   -> **Generate Organized Outputs**: Never again sift through chaos; WiFiXpress provides clean and accessible data when you need it most.  
 
-Let's not shit ourselves —whether you're an operator under pressure or just someone too lazy to type airmon-ng for the hundredth time,<br> **WiFiXpress** has your back.<br> It’s not just a tool 
--it’s a way of life for those who value speed, automation, and the occasional touch of recklessness.
+Let's not shit ourselves —whether you're an operator under pressure or just someone too lazy to type airmon-ng for the hundredth time,<br> **WiFiXpress** has your back.<br>
 
 ## *Installation*
 **Tools you need:** ```aircrack-ng (airodump-ng, aireplay-ng)```, ```hashcat```, ```tcpdump```.<br>
