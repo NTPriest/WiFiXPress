@@ -58,8 +58,8 @@ Fix: Provide a **valid network interface** name.
 -> Still broken? Manually identify the interface name and comment out lines 55-65 in the script.
 
 ### QaR Philosophy
-*Quick and Response (QaR) – Scripts and automation that make shit happen without the annoying manual grind. I build tools that take care of the boring stuff so you can stop wasting time and just get things done. No more babysitting your computer —just provide inputs and lets roll.*
-Daaamn son, you'll see what real automation is all about! (O^O)
+*Quick and Response (QaR) – Scripts and automation that make shit happen without the annoying manual grind. I build tools that take care of the boring stuff so you can stop wasting time and just get things done. No more babysitting your computer —just provide inputs and lets roll.*<br>
+Daaamn son, you'll see what real automation is all about! (O^O)<br>
 **"Quick hands save lives!"**
 
 ##Disclaimer: 
