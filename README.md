@@ -1,4 +1,4 @@
-# **WiFiXpress: Tactical Wireless Automation**
+## **WiFiXpress: Tactical Wireless Automation**
 
 ### **WiFiXpress** is a streamlined, tactical-grade WiFi utility built around the principle of **QaR** (*Quick and Respond*). Why waste precious time typing out endless commands, juggling multiple terminals, or sweating over syntax errors when WiFiXpress can handle the grunt work for you?
 
@@ -9,8 +9,7 @@
   -> **Save and Review History**: Every move you make is logged, so you can easily retrace your steps or refine your process.  
   -> **Generate Organized Outputs**: Never again sift through chaos; WiFiXpress provides clean and accessible data when you need it most.  
 
-This tool isn’t just a utility; it’s your exit strategy when your time is important.**WiFiXpress** makes sure you can grab what you need and get out, fast and unnoticed.
-And let's not shit ourselves—whether you're an operator under pressure or just someone too lazy to type airmon-ng for the hundredth time,<br> **WiFiXpress** has your back. It’s not just a tool 
+Let's not shit ourselves —whether you're an operator under pressure or just someone too lazy to type airmon-ng for the hundredth time,<br> **WiFiXpress** has your back.<br> It’s not just a tool 
 -it’s a way of life for those who value speed, automation, and the occasional touch of recklessness.
 
 ## *Installation*
@@ -54,7 +53,7 @@ sudo dnf install aircrack-ng
   Error: The network interface <INTERFACE> does not exist!
   [The IF with Net.Inter. search]-> [if ! ip link show "$INTERFACE" &>/dev/null; then...]
 ```
-Fix: Provide a **valid network interface** name.
+Fix: Provide a **valid network interface** name.<br>
 -> Still broken? Manually identify the interface name and comment out lines 55-65 in the script.
 
 ### QaR Philosophy
